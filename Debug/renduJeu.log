@@ -1,0 +1,7 @@
+﻿  renduJeu.cpp
+c:\users\aurélien\source\repos\rendujeu\rendujeu.cpp(165): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+c:\users\aurélien\source\repos\rendujeu\rendujeu.cpp(170): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+c:\users\aurélien\source\repos\rendujeu\rendujeu.cpp(175): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+c:\users\aurélien\source\repos\rendujeu\rendujeu.cpp(180): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+c:\users\aurélien\source\repos\rendujeu\rendujeu.cpp(241): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  renduJeu.vcxproj -> C:\Users\Aurélien\source\repos\renduJeu\Debug\renduJeu.exe
